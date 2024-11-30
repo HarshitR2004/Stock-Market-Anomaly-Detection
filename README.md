@@ -76,8 +76,7 @@ The Isolation Forest algorithm is ideal for anomaly detection in high-dimensiona
 - Plotted detected anomalies by year to reveal temporal patterns and highlight significant outliers.
 
 ### 4. **Test Data Processing**
-- Applied the trained Isolation Forest model to unseen test data to obtain a csv file which contains the anomalies
-- 
+- Applied the trained Isolation Forest model to unseen test data to obtain a CSV file which contains the anomalies
 [Test Result](test_result.csv)
 
 ---
