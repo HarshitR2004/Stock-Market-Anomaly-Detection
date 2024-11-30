@@ -1,7 +1,7 @@
 # Anomaly Detection in Stock Market Data
 
 ## Overview
-This project focuses on detecting anomalies in stock mearket time series data, utilizing an **Isolation Forest** model. The primary goal is to identify unusual patterns or outliers in stock market data, which may signal significant events, market manipulations, or unexpected trends. The project includes steps like data preprocessing, feature engineering, model training, and visualizing detected anomalies to make insights more actionable.
+This project focuses on detecting anomalies in stock market time series data, utilizing an **Isolation Forest** model. The primary goal is to identify unusual patterns or outliers in stock market data, which may signal significant events, market manipulations, or unexpected trends. The project includes steps like data preprocessing, feature engineering, model training, and visualizing detected anomalies to make insights more actionable.
 
 ---
 
